@@ -1,5 +1,5 @@
 {
-  "name": "dpad-navigation",
+  "name": "dpad-nav-lib",
   "version": "0.0.0",
   "main": [
     "app/scripts/focus-controller.js",
