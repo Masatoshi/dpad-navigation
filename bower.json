@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": [
     "app/scripts/focus-controller.js",
-    "app/scripts/ocusable-item.js",
+    "app/scripts/focusable-item.js",
     "app/scripts/generic-focusable-item.js",
     "app/scripts/main.js"
   ],
