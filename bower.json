@@ -5,7 +5,7 @@
     "app/scripts/focus-controller.js",
     "app/scripts/ocusable-item.js",
     "app/scripts/generic-focusable-item.js",
-    "app/scripts/main.js",
+    "app/scripts/main.js"
   ],
   "dependencies": {
   },
