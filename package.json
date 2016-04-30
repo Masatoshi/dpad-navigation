@@ -1,6 +1,7 @@
 {
   "name": "dpad-navigation",
   "version": "0.0.0",
+  "main": "build/dpad-nav-lib-0.0.4.min.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
